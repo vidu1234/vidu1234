@@ -9,14 +9,14 @@
 
 - 🌱 I’m currently learning **React JS, JavaScript**
 
-- 📝 I regularly write articles on [mycareerblog.tech](mycareerblog.tech)
+- 📝 I regularly write articles on [mycareerblog.tech](https://www.mycareerblog.tech/)
 
 - 📫 How to reach me **vidura.in@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/codepen.io/vidu123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/vidu123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vidura-ravindranath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidura-ravindranath" height="30" width="40" /></a>
+<a href="https://codepen.io/vidu123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/vidu123" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vidura-ravindranath-172959189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidura-ravindranath" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflow.com/users/14011249/vidura-ravindranath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/14011249/vidura-ravindranath" height="30" width="40" /></a>
 <a href="https://fb.com/vidura ravindranath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vidura ravindranath" height="30" width="40" /></a>
 <a href="https://dribbble.com/dribbble.com/vidu1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble.com/vidu1234" height="30" width="40" /></a>
