@@ -1,4 +1,5 @@
-<img align="center" alt="Coding" width="1280" src="https://i.postimg.cc/2SfhDkVp/Frame-1-1.png">
+<img align="center" alt="Coding" width="120" src="https://media1.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e474z6pcyzogzq44a394np7065ilrtv93ho0lssaj9f&rid=giphy.gif&ct=s">
+
 <h1 align="center">Hi 👋, I'm Vidura Ravindranath</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
