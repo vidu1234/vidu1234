@@ -1,4 +1,4 @@
-
+<img align="center" alt="Coding" width="1280" src="https://i.postimg.cc/2SfhDkVp/Frame-1-1.png">
 <h1 align="center">Hi 👋, I'm Vidura Ravindranath</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
