@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vidura Ravindranath</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif?cid=ecf05e470mhth1b9gx6sco6jqljwy7a01ufs4mhe0zo09vo3&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/cCR068QN/giphy-1-unscreen.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidu1234&label=Profile%20views&color=0e75b6&style=flat" alt="vidu1234" /> </p>
 
